@@ -40,7 +40,7 @@ MySQL Connector/J (JDBC driver)
 
     Open phpMyAdmin (http://localhost/phpmyadmin).
 
-    Create a new database called (example) tic_tac_toe_db.
+    Create a new database called (example) tictactoeGUI.
 
     Run this SQL command:
 
