@@ -71,7 +71,9 @@ import java.sql.Connection; import java.sql.DriverManager; import java.sql.SQLEx
 
 public class DBConnection { public static Connection getConnection() throws SQLException { return DriverManager.getConnection("jdbc:mysql://localhost:3306/tictactoeGUI", "root", ""); } }
 
-(Assuming username = root, password = empty) 🚀 How to Run
+(Assuming username = root, password = empty) 
+
+<h1><b>🚀 How to Run</b></h1>
 
 Run the Main.java file.
 
