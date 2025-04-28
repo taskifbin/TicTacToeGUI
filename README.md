@@ -1,4 +1,4 @@
-#TicTacToeGUI
+<h1><b>TicTacToeGUI</b></h1>
 
 This is a Java Swing GUI-based Tic Tac Toe game where players must register and log in before playing. The players' Name, Email, Password, and Points are saved and managed using a MySQL database running on XAMPP.
 
