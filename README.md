@@ -2,7 +2,7 @@
 
 This is a Java Swing GUI-based Tic Tac Toe game where players must register and log in before playing. The players' Name, Email, Password, and Points are saved and managed using a MySQL database running on XAMPP.
 
-✨ Features
+<h1><b>✨ Features </b></h1>
 
 ✅ Player Registration (Name, Email, Password)
 
@@ -16,7 +16,7 @@ This is a Java Swing GUI-based Tic Tac Toe game where players must register and 
 
 ✅ Error handling for wrong credentials
 
-🛠 Requirements
+<h1><b>🛠 Requirements</b></h1>
 
 Java JDK 8 or later
 
@@ -26,7 +26,7 @@ XAMPP Control Panel (MySQL)
 
 MySQL Connector/J (JDBC driver)
 
-📦 How to Set Up
+<h1><b>📦 How to Set Up</b></h1>
 
     Install and Run XAMPP
 
@@ -46,7 +46,8 @@ MySQL Connector/J (JDBC driver)
 
 CREATE TABLE playerInfo ( id INT AUTO_INCREMENT PRIMARY KEY, Name VARCHAR(100) NOT NULL, Email VARCHAR(100) UNIQUE NOT NULL, Password VARCHAR(100) NOT NULL, Point INT DEFAULT 0 );
 
-✅ This will create a table to store players' information. 3. Setup Java Project
+✅ This will create a table to store players' information. 
+<h1><b>Setup Java Project</b></h1>
 
 Clone or download this repository.
 
@@ -82,6 +83,6 @@ Start playing Tic Tac Toe!
 
 🏆 Winner can have their points updated .
 
-📜 License
+<h1><b>📜 License</b></h1>
 
 This project is Open-Source.
